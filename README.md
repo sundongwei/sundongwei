@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on ...shxT research institute.......:poop:
+- 🔭 I’m currently working on ... research institute.......:poop:
 - 🌱 I’m currently learning ...Ohhhhhhhhhhhhhhhh~too many....... :recycle:
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... A man who can supervise me publish papers~~~ :exclamation: :exclamation:
