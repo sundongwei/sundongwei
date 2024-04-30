@@ -1,17 +1,15 @@
-### Hi there 👋
+# Welcome to Sun Dongwei's GitHub!
 
-<!--
-**sundongwei/sundongwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Sun Dongwei** (孙冬伟), a Ph.D. student in Computer Science at Xi'an Jiaotong University. My research focuses on **remote sensing image processing** and **multi-modal machine learning**.
 
-Here are some ideas to get you started:
+## About Me
 
+- 🔭 I am exploring innovative approaches in remote sensing and multi-modal machine learning.
+- 💻 I enjoy applying machine learning techniques to solve complex problems.
 
--->
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...Ohhhhhhhhhhhhhhhh~too many....... :recycle:
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... science fiction ， fiction films... 
+## Contact Me
+
+- 📧 Email: [your_email@example.com](mailto:sundongwei@outlook.com)
+- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
+Thank you for visiting my GitHub profile!
