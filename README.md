@@ -9,7 +9,7 @@ Hi, I'm **Sun Dongwei** (孙冬伟), a Ph.D. student in Computer Science at Xi'a
 
 ## Contact Me
 
-- 📧 Email: [your_email@example.com](mailto:sundongwei@outlook.com)
+- 📧 Email: [sundongwei@outlook.com](mailto:sundongwei@outlook.com)
 - 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 Thank you for visiting my GitHub profile!
