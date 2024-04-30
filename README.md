@@ -22,6 +22,5 @@ Hi, I'm **Sun Dongwei/Sun Dongway** (孙冬伟), a Ph.D. student in Computer Sci
 ## Contact Me
 
 - 📧 Email: [sundongwei@outlook.com](mailto:sundongwei@outlook.com)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 Thank you for visiting my GitHub profile!
